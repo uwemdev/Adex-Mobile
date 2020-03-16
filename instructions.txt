@@ -1,0 +1,3 @@
+Cloning or Downloading the theme? 
+- Create two folders namely: "assets" and "includes"
+- 
