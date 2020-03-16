@@ -15,5 +15,7 @@ Now, activate the theme from your wordpress dashboard.
 
 // Theme Orginal Source: https://www.wapforum.com.ng/
 
+// Demo: https://gistrepublic.info
+
 
 
