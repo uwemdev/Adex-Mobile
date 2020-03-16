@@ -11,4 +11,8 @@ Cloning or Downloading the theme?
 Now, activate the theme from your wordpress dashboard. 
 
 
+// Theme orginaly developed by Flexible
+// Theme Orginal Source: https://www.wapforum.com.ng/
+
+
 
