@@ -13,9 +13,9 @@ Now, activate the theme from your wordpress dashboard.
 
 // Theme orginaly developed by Flexible
 
-// Theme Orginal Source: https://www.wapforum.com.ng/
+// Theme Orginal Source: ****
 
-// Demo: https://gistrepublic.info
+// Demo: ****
 
 
 
